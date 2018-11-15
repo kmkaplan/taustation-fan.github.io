@@ -662,7 +662,8 @@ depending on your current career rank.
 
 The minimum number of career days per rank increases exponentially: you can get
 promoted after 2 days in career rank 1, after 4 days in rank 2, 8 days
-in rank 3 etc., all the way up to 128 days in rank 7.
+in rank 3, 16 days in rank 4, 32 days in rank 5, 64 days in rank 6 and
+128 days in rank 7.
 
 Career tasks use up 20% of the affected stat, and 5% focus. On success,
 you get a bonus in credits (between 3 and 320, depending on the difficulty
